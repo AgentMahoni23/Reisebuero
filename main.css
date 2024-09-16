@@ -1,0 +1,40 @@
+body {
+   background-color: #000066;
+   color: #000066;
+   font-family: Verdana, Arial, Helvetica, sans-serif;
+   font-size: 12px;
+   margin: 0px
+}
+
+td {
+   background-color: #3399CC;
+   color: #000066;
+   font-family: Verdana, Arial, Helvetica, sans-serif;
+   font-size: 12px;
+   padding: 6px
+}
+
+a {
+   color: #003300;
+   text-decoration: none
+}
+
+a:link {
+   color: #003300
+}
+
+a:visited {
+   color: #000000
+}
+
+a:active {
+   color: #000000
+}
+
+a:hover {
+   color: #3399CC;
+   background-color: #000066
+}
+
+
+   
